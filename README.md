@@ -10,4 +10,4 @@ The aim of this project is to create an application that would solve this proble
 
 ## How
 
-The main components of this project are [Mapbox](https://www.mapbox.com/) for its excellent mapping, locating and navigating tools, [ARKit](https://developer.apple.com/augmented-reality/arkit/) for its native iOS AR technology, and a couple of other [Swift](https://developer.apple.com/swift/) libraries.
+The main components of this project are [Mapbox](https://www.mapbox.com/) for its excellent mapping and navigation tools, [ARKit](https://developer.apple.com/augmented-reality/arkit/) for its native iOS AR technology, and a couple of other [Swift](https://developer.apple.com/swift/) libraries.
