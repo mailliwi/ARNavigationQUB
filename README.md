@@ -1,4 +1,4 @@
-![](https://github.com/[mailliwi]/[arnavigationqub]/blob/[main]/arnavqub.png?raw=true)
+![](arnavqub.jpg?raw=true)
 
 
 # Augmented Reality Navigation.
