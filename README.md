@@ -2,6 +2,8 @@
 
 
 # Augmented Reality Navigation.
+## Disclaimer
+As of 26th August, this project is still very much a work in progress.
 
 ## How
 
