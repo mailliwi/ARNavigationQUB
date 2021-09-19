@@ -11,7 +11,7 @@ The main components of this project are [Mapbox](https://www.mapbox.com/) for it
 
 ## Why
 This project springs from my desire to create a **mobile GPS application in Augmented Reality for iPhone**.
-By being more **visual**, this application helps people better see where to go and when to turn.
+By being more **visual**, this application helps people navigate in their surroudings more easily by visually indicating where to go and where to turn directly on their device's live camera feed.
 
 For the people that are comfortable with looking at a 2D map on a screen, translating 2D directions to their real world environment is a sufficient form of navigation help. For others like Bobby, our fictional user, it is not enough.
 
