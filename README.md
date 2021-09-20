@@ -21,4 +21,4 @@ The aim of this project is to create an application that would solve this proble
 
 ## Preview GIFs
 
-![](https://media.giphy.com/media/7bXqK6G8AFQEJfu9iA/giphy-downsized-large.gif)
+![ARNav](https://media.giphy.com/media/7bXqK6G8AFQEJfu9iA/giphy-downsized-large.gif)
