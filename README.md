@@ -21,6 +21,6 @@ The aim of this project is to create an application that would solve this proble
 
 ## Preview GIFs
 ARNavigationViewController real conditions demo.
-![ARNavPreview](previews/ARNav_preview.gif)
+![ARNavPreview](previews/ARNav_preview16.gif)
 MapViewController 'in App' UI demo.
 ![MapViewPreview]()
