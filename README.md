@@ -19,4 +19,4 @@ Bobby has trouble with directions, despite having access to his mobile phone map
 
 The aim of this project is to create an application that would solve this problem through the use of **augmented reality**, and stems from the increasing presence of this specific technology.
 
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:216.11%;position:relative;"><iframe width="360" height="778" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/5no4nl"></iframe></div><p><a href="https://imgflip.com/gif/5no4nl">via Imgflip</a></p></div>
+<a href="https://imgflip.com/gif/5no4nl">via Imgflip</a>
