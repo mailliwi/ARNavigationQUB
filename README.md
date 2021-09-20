@@ -12,7 +12,9 @@ ARNavigationViewController real life conditions demo.
 </p>
 
 MapViewController "in App" UI demo.
-![MapViewPreview]()
+<p align="center">
+  <img src="previews/MapView_preview.gif" alt="animated"/>
+</p>
 
 ## How
 
