@@ -21,4 +21,4 @@ The aim of this project is to create an application that would solve this proble
 
 ## Preview GIFs
 
-![](https://imgur.com/rFJZxrS.gif)
+![](previews/)
