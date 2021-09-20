@@ -6,9 +6,11 @@
 _As of 26th August 2021, this project is still very much a work in progress._
 
 ## Preview GIFs
-ARNavigationViewController real conditions demo.
-![ARNavPreview](previews/ARNav_preview16.gif)
-MapViewController 'in App' UI demo.
+ARNavigationViewController real life conditions demo.
+<p align="center">
+  <img src="![ARNavPreview](previews/ARNav_preview16.gif)"/>
+</p>
+MapViewController "in App" UI demo.
 ![MapViewPreview]()
 
 ## How
