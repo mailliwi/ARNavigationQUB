@@ -20,5 +20,4 @@ Bobby has trouble with directions, despite having access to his mobile phone map
 The aim of this project is to create an application that would solve this problem through the use of **augmented reality**, and stems from the increasing presence of this specific technology.
 
 ## Preview GIFs
-
-![ARNav](https://media.giphy.com/media/7bXqK6G8AFQEJfu9iA/giphy-downsized-large.gif)
+![ARNavPreview]()![MapViewPreview]()
