@@ -1,4 +1,4 @@
-![](arnavqub.jpg?raw=true)
+![](resources/arnavqub.jpg)
 
 
 # Augmented Reality Navigation.
@@ -8,12 +8,12 @@ _As of 26th August 2021, this project is still very much a work in progress._
 ## Preview GIFs
 ARNavigationViewController real life conditions demo.
 <p align="center">
-  <img src="previews/ARNav_preview16.gif" alt="animated"/>
+  <img src="resources/ARNav_preview16.gif" alt="animated"/>
 </p>
 
 MapViewController "in App" UI demo.
 <p align="center">
-  <img src="previews/MapView_preview.gif" alt="animated"/>
+  <img src="resources/MapView_preview.gif" alt="animated"/>
 </p>
 
 ## How
