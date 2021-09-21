@@ -11,7 +11,7 @@ ARNavigationViewController real life conditions demo.
   <img src="resources/ARNav_preview16.gif" alt="animated"/>
 </p>
 
-MapViewController "in App" UI demo.
+MapViewController "in App" UI demo. Design is subject to change.
 <p align="center">
   <img src="resources/MapView_preview.gif" alt="animated"/>
 </p>
