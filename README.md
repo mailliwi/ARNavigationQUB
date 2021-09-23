@@ -1,6 +1,6 @@
 ![](resources/arnavqub.jpg)
 <p align="center">
-  <img src="resources/ARNavQUBAppIcon"/>
+  <img src="resources/ARNavQUBAppIcon.png"/>
 </p>
 
 # Augmented Reality Navigation.
