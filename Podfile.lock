@@ -1,0 +1,119 @@
+PODS:
+  - Mapbox-iOS-SDK (6.3.0):
+    - MapboxMobileEvents (~> 0.10.4)
+  - MapboxAccounts (2.3.1)
+  - MapboxCommon (9.2.0)
+  - MapboxCoreNavigation (1.4.2):
+    - MapboxAccounts (~> 2.3.0)
+    - MapboxDirections (~> 1.2.0)
+    - MapboxMobileEvents (~> 0.10.2)
+    - MapboxNavigationNative (~> 32.0)
+    - Turf (~> 1.0)
+  - MapboxDirections (1.2.0):
+    - Polyline (~> 5.0)
+    - Turf (~> 1.0)
+  - MapboxMobileEvents (0.10.11)
+  - MapboxNavigation (1.4.2):
+    - Mapbox-iOS-SDK (~> 6.0)
+    - MapboxCoreNavigation (= 1.4.2)
+    - MapboxMobileEvents (~> 0.10.2)
+    - MapboxSpeech (~> 1.0)
+    - Solar (~> 2.1)
+  - MapboxNavigationNative (32.0.0):
+    - MapboxCommon (= 9.2.0)
+  - MapboxSearch (1.0.0-beta.2):
+    - MapboxMobileEvents (~> 0.10.0)
+  - MapboxSearchUI (1.0.0-beta.2):
+    - MapboxSearch (< 2.0, >= 1.0.0-beta.2)
+  - MapboxSpeech (1.0.0)
+  - MapboxVision (0.14.0):
+    - MapboxMobileEvents (~> 0.10.5)
+    - MapboxVisionNativeAll/Vision (= 0.14.0)
+    - ZIPFoundation (~> 0.9.11)
+  - MapboxVisionAR (0.14.0):
+    - MapboxVision (= 0.14.0)
+    - MapboxVisionNativeAll/AR (= 0.14.0)
+  - MapboxVisionNativeAll (0.14.0):
+    - MapboxVisionNativeAll/AR (= 0.14.0)
+    - MapboxVisionNativeAll/Safety (= 0.14.0)
+    - MapboxVisionNativeAll/Vision (= 0.14.0)
+  - MapboxVisionNativeAll/AR (0.14.0):
+    - MapboxVisionNativeAll/Vision
+  - MapboxVisionNativeAll/Safety (0.14.0):
+    - MapboxVisionNativeAll/Vision
+  - MapboxVisionNativeAll/Vision (0.14.0):
+    - MapboxAccounts (~> 2.2)
+  - Polyline (5.0.2)
+  - Solar (2.1.0)
+  - Turf (1.2.0)
+  - ZIPFoundation (0.9.12)
+
+DEPENDENCIES:
+  - MapboxDirections (~> 1.2)
+  - MapboxNavigation (~> 1.4)
+  - MapboxSearch (~> 1.0.0-beta)
+  - MapboxSearchUI (~> 1.0.0-beta)
+  - MapboxVision (from `https://github.com/mapbox/mapbox-vision-ios.git`, tag `v0.14.0`)
+  - MapboxVisionAR (from `https://github.com/mapbox/mapbox-vision-ios.git`, tag `v0.14.0`)
+  - "MapboxVisionNativeAll (from `https://api.mapbox.com/downloads/v1/vision/ios/mapbox-vision-native-all/0.14.0.podspec?access_token=sk.eyJ1IjoibWFpbGxpd2kiLCJhIjoiY2tycDRpc2p2MTF0MzJ3cnEzZzdiMnlqayJ9.Wd1z9LKjMBa4tn4n2wscpQ`)"
+  - Turf (~> 1.2)
+
+SPEC REPOS:
+  trunk:
+    - Mapbox-iOS-SDK
+    - MapboxAccounts
+    - MapboxCommon
+    - MapboxCoreNavigation
+    - MapboxDirections
+    - MapboxMobileEvents
+    - MapboxNavigation
+    - MapboxNavigationNative
+    - MapboxSearch
+    - MapboxSearchUI
+    - MapboxSpeech
+    - Polyline
+    - Solar
+    - Turf
+    - ZIPFoundation
+
+EXTERNAL SOURCES:
+  MapboxVision:
+    :git: https://github.com/mapbox/mapbox-vision-ios.git
+    :tag: v0.14.0
+  MapboxVisionAR:
+    :git: https://github.com/mapbox/mapbox-vision-ios.git
+    :tag: v0.14.0
+  MapboxVisionNativeAll:
+    :podspec: "https://api.mapbox.com/downloads/v1/vision/ios/mapbox-vision-native-all/0.14.0.podspec?access_token=sk.eyJ1IjoibWFpbGxpd2kiLCJhIjoiY2tycDRpc2p2MTF0MzJ3cnEzZzdiMnlqayJ9.Wd1z9LKjMBa4tn4n2wscpQ"
+
+CHECKOUT OPTIONS:
+  MapboxVision:
+    :git: https://github.com/mapbox/mapbox-vision-ios.git
+    :tag: v0.14.0
+  MapboxVisionAR:
+    :git: https://github.com/mapbox/mapbox-vision-ios.git
+    :tag: v0.14.0
+
+SPEC CHECKSUMS:
+  Mapbox-iOS-SDK: 2563ed87ead6ec08f1c2090873977b8a7be335a8
+  MapboxAccounts: e40ef575df5d8b7ef33d0504ff2d393f4fde0455
+  MapboxCommon: 2c4ef00c10cba35302835423f4d63c6f3dea4bc4
+  MapboxCoreNavigation: fd24751d42a53c2ca4ddebd55f49a11b925f08be
+  MapboxDirections: 383df0cd65784897c2269750a42d9654c832f0ce
+  MapboxMobileEvents: 1176afebbeca86806614a3dc409840bc02a3dd89
+  MapboxNavigation: b596028515707e1b4b94d22f298a7c7000712e6d
+  MapboxNavigationNative: e811b9beed18c01e4693e29f843d36b4a760fa61
+  MapboxSearch: 0498ebdd00def9e28a4e95aeb1cdee98c81ef23a
+  MapboxSearchUI: 3d48a41679b4265df396b62b44061c8ffbb75545
+  MapboxSpeech: 4b3aea42e35d056fae1d7ad847a9fc0f412d911e
+  MapboxVision: 446e603a5dfa7f8c06006839d0b6b75aecbcc007
+  MapboxVisionAR: b25d22aa80787556f852d24006803a41ae622742
+  MapboxVisionNativeAll: f1db7f6eb9135a697e777b646fc68bc3c0a58742
+  Polyline: fce41d72e1146c41c6d081f7656827226f643dff
+  Solar: 2dc6e7cc39186cb0c8228fa08df76fb50c7d8f24
+  Turf: aaa060138b11a8e979a19e6d81091d156a31bc58
+  ZIPFoundation: e27423c004a5a1410c15933407747374e7c6cb6e
+
+PODFILE CHECKSUM: 73c0619149ac75ef79228fc4d6cbde5fe8872665
+
+COCOAPODS: 1.10.1
