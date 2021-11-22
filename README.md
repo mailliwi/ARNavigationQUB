@@ -30,7 +30,7 @@ Bobby has trouble with directions, despite having access to his mobile phone map
 The aim of this project is to create an application that would solve this problem through the use of **augmented reality**, and stems from the increasing presence of this specific technology.
 
 ## App icon
-Thank you Justine for spending the time to make this for me for the modest sum of 0€.
+Thank you Justine for spending some time to make the App's icon, and all that for the modest sum of 0€.
 <p align="center">
   <img src="resources/ARNavQUBAppIcon.png"/>
 </p>
